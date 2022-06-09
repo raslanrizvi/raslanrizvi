@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=6aa6f8)
