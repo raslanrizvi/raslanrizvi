@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RaslanRizvi?label=Follow)](https://twitter.com/intent/follow?screen_name=RaslanRizvi)
-[![Linkedin: Raslan Rizvi](https://img.shields.io/badge/-Raslan Rizvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raslan-rizvi/)](https://www.linkedin.com/in/raslan-rizvi-2779ba197/)
+[![Linkedin: Raslan Rizvi](https://img.shields.io/badge/-RaslanRizvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raslan-rizvi/)](https://www.linkedin.com/in/raslan-rizvi-2779ba197/)
 ![GitHub followers](https://img.shields.io/github/followers/raslanrizvi?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://raslanrizvi.tech/)](http://raslanrizvi.tech/)
 ![](https://visitor-badge.glitch.me/badge?page_id=raslanrizvi.raslanrizvi)
