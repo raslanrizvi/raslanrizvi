@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Web Development
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Any Thing
-- 📫 How to reach me: ... [Portfolio](http://raslanrizvi.tech)
+- 📫 How to reach me: ... [Portfolio](https://raslanrizvi.me)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Coding is easy
 
