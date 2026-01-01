@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on ... Web Development<br>🌱 I’m currently learning ... C# & .NET<br>💬 Ask me about ... Any Thing<br>📫 How to reach me: ... [Portfolio](https://raslanrizvi.me)<br>⚡ Fun fact: ... Coding is easy
+🔭 I’m currently working on ... Web Development<br>🌱 I’m currently learning ... Python<br>💬 Ask me about ... Any Thing<br>📫 How to reach me: ... [Portfolio](https://resume.razi.life)<br>⚡ Fun fact: ... Coding is easy
 
 
 ## 🌐 Socials:
